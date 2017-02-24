@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\bin\Debug\CheckLowAndHighRate.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\bin\Debug\CheckLowAndHighRate.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\obj\x86\Debug\CheckLowAndHighRate.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\obj\x86\Debug\CheckLowAndHighRate.pdb
